@@ -1,0 +1,17 @@
+C:\Users\Fernando\Source\Repos\MakingSense.Blogging.WebAPI\MakingSense.Blogging.Test\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Fernando\Source\Repos\MakingSense.Blogging.WebAPI\MakingSense.Blogging.Test\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Fernando\Source\Repos\MakingSense.Blogging.WebAPI\MakingSense.Blogging.Test\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Fernando\Source\Repos\MakingSense.Blogging.WebAPI\MakingSense.Blogging.Test\bin\Debug\netcoreapp2.2\MakingSense.Blogging.Test.deps.json
+C:\Users\Fernando\Source\Repos\MakingSense.Blogging.WebAPI\MakingSense.Blogging.Test\bin\Debug\netcoreapp2.2\MakingSense.Blogging.Test.runtimeconfig.json
+C:\Users\Fernando\Source\Repos\MakingSense.Blogging.WebAPI\MakingSense.Blogging.Test\bin\Debug\netcoreapp2.2\MakingSense.Blogging.Test.runtimeconfig.dev.json
+C:\Users\Fernando\Source\Repos\MakingSense.Blogging.WebAPI\MakingSense.Blogging.Test\bin\Debug\netcoreapp2.2\MakingSense.Blogging.Test.dll
+C:\Users\Fernando\Source\Repos\MakingSense.Blogging.WebAPI\MakingSense.Blogging.Test\bin\Debug\netcoreapp2.2\MakingSense.Blogging.WebAPI.dll
+C:\Users\Fernando\Source\Repos\MakingSense.Blogging.WebAPI\MakingSense.Blogging.Test\bin\Debug\netcoreapp2.2\MakingSense.Blogging.WebAPI.pdb
+C:\Users\Fernando\Source\Repos\MakingSense.Blogging.WebAPI\MakingSense.Blogging.Test\obj\Debug\netcoreapp2.2\MakingSense.Blogging.Test.csprojAssemblyReference.cache
+C:\Users\Fernando\Source\Repos\MakingSense.Blogging.WebAPI\MakingSense.Blogging.Test\obj\Debug\netcoreapp2.2\MakingSense.Blogging.Test.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Source\Repos\MakingSense.Blogging.WebAPI\MakingSense.Blogging.Test\obj\Debug\netcoreapp2.2\MakingSense.Blogging.Test.AssemblyInfoInputs.cache
+C:\Users\Fernando\Source\Repos\MakingSense.Blogging.WebAPI\MakingSense.Blogging.Test\obj\Debug\netcoreapp2.2\MakingSense.Blogging.Test.AssemblyInfo.cs
+C:\Users\Fernando\Source\Repos\MakingSense.Blogging.WebAPI\MakingSense.Blogging.Test\obj\Debug\netcoreapp2.2\MakingSense.Blogging.Test.csproj.CopyComplete
+C:\Users\Fernando\Source\Repos\MakingSense.Blogging.WebAPI\MakingSense.Blogging.Test\bin\Debug\netcoreapp2.2\MakingSense.Blogging.Test.pdb
+C:\Users\Fernando\Source\Repos\MakingSense.Blogging.WebAPI\MakingSense.Blogging.Test\obj\Debug\netcoreapp2.2\MakingSense.Blogging.Test.dll
+C:\Users\Fernando\Source\Repos\MakingSense.Blogging.WebAPI\MakingSense.Blogging.Test\obj\Debug\netcoreapp2.2\MakingSense.Blogging.Test.pdb
